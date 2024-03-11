@@ -1,2 +1,12 @@
 # LEGO-ASSEMBLY-ASSISTANT-AR-
 AR app that helps with assembling legos
+DEMO:
+
+
+
+![GIF](https://github.com/QwakDev/LEGO-ASSEMBLY-ASSISTANT-AR-/assets/130720687/e126d403-6553-446e-a4db-ce96629a7bbe)
+
+
+WHAT USER SEES:![WHAT USER SEES](https://github.com/QwakDev/LEGO-ASSEMBLY-ASSISTANT-AR-/assets/130720687/9559b76e-b8b6-4248-9338-75a47feea4bf)WHAT MACHINE SEES:
+APP OUTPUT:![LOG](https://github.com/QwakDev/LEGO-ASSEMBLY-ASSISTANT-AR-/assets/130720687/705edd7f-b19d-4765-b89a-d1d386d133e7)
+
